@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch File",
+            "request": "launch",
+            "mainClass": "${file}" // whatever main class in the active editor
+        }
+    ]
+}
